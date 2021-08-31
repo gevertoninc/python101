@@ -14,3 +14,7 @@ if __name__ == '__main__':
     print_hi('Batata')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+'''
+Multiple lines comment
+'''

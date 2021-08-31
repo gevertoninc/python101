@@ -1,5 +1,7 @@
 from math import *
 
+print(f'Name: {__name__}')
+
 character_name = 'John'
 character_age = 20
 is_male = True

@@ -17,7 +17,7 @@ say_hello('Geverton')
 
 
 def cube(number):
-    return number * number * number
+    return number ** 3
 
 
 print(f'Cube of 2: {cube(2)}')

@@ -15,3 +15,4 @@ months = {
 
 print(f'First month: {months[1]}')
 print(f'Nonexistent month: {months.get(0)}')
+print(f'Nonexistent month with default value: {months.get(0, "Invalid month number")}')
